@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5035afe5-1766-46d6-8029-7d4c08e70762" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +70,10 @@
       <updated>1632268800243</updated>
       <workItem from="1632268801304" duration="531000" />
       <workItem from="1632270087849" duration="522000" />
-      <workItem from="1632270922578" duration="538000" />
+      <workItem from="1632270922578" duration="1155000" />
+      <workItem from="1632348037045" duration="490000" />
+      <workItem from="1632348627493" duration="346000" />
+      <workItem from="1632349633080" duration="488000" />
     </task>
     <servers />
   </component>
